@@ -1,0 +1,1 @@
+include ':app', ':spotifysdk-1.0.0-beta4'
