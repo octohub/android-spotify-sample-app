@@ -10,10 +10,4 @@ Useful resources for the Android Spotify SDK:
  
 # Make it your own
  * Make a Spotify Developer Account using your regular Spotify account credentials. It must be a premium account: https://developer.spotify.com/my-applications/#!/
- * In MainActivity.java, input your Client ID associated with your developer account. If you wish to change the callback URL, you must change it in the AndroidManifest.xml file as well:
- ```Java
-// TODO: Replace with your client ID
-    private static final String CLIENT_ID = "";
-// TODO: Replace with your redirect URI
-    private static final String REDIRECT_URI = "samplecallback://callback";
-```
+ * In MainActivity.java, input your Client ID associated with your developer account. If you wish to change the callback URL, you must change it in the AndroidManifest.xml file as well
